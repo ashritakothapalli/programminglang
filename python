@@ -1,4 +1,0 @@
-import demoji
-text="Having a great time at the beach! 🌊☀🌴"
-res=demoji.findall(text)
-print(res)
